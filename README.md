@@ -1,3 +1,5 @@
 # How we work
 
 The Ruesink Lab has for decades explored ecological questions of how intertidal organisms structure their environment. Lab members have done PhD theses on aquaculture-environment interactions, morphology of seastars and gastropods, dynamics of eelgrass (Zostera marina), restoration of native oysters (Ostrea lurida), and functional redundancy of foundation species. In soft-sediment coastal environments of Washington State, major ecosystem engineers are burrowing shrimp, which destabilize and turn over sediment, while eelgrass and oysters anchor sediment and serve as bioaccumulators.
+
+We are based at the University of Washington, Seattle, in the Department of Biology. We collaborate within the university with Takato Imaizumi (plant molecular biology), Kerry Naish (molecular ecology), Kendall Valentine and Andrea Ogston (oceanography), as well as Washington state agencies (Fish & Wildlife, Natural Resources) and NGOs (Pacific Shellfish Institute). These collaborations reflect that ecological challenges on the coast require multi-disciplinary perspectives and involvement.
